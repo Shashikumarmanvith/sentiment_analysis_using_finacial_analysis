@@ -1,1 +1,1 @@
-# sentiment_analysis_using_finacial_analysis
+# sentiment_analysis_using_finacial_news
